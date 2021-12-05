@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Grupa.it_task_3/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Grupa.it_task_3/static/js/main.95c8cd35.chunk.js",
+    "main.js.map": "/Grupa.it_task_3/static/js/main.95c8cd35.chunk.js.map",
+    "runtime-main.js": "/Grupa.it_task_3/static/js/runtime-main.0857408a.js",
+    "runtime-main.js.map": "/Grupa.it_task_3/static/js/runtime-main.0857408a.js.map",
+    "static/js/2.523a7b35.chunk.js": "/Grupa.it_task_3/static/js/2.523a7b35.chunk.js",
+    "static/js/2.523a7b35.chunk.js.map": "/Grupa.it_task_3/static/js/2.523a7b35.chunk.js.map",
+    "index.html": "/Grupa.it_task_3/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Grupa.it_task_3/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.523a7b35.chunk.js.LICENSE.txt": "/Grupa.it_task_3/static/js/2.523a7b35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0857408a.js",
+    "static/js/2.523a7b35.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.95c8cd35.chunk.js"
+  ]
+}
